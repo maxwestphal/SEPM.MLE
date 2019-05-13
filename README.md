@@ -1,2 +1,3 @@
 # SEPM.MLE
-Statistical Evaluation of Prediction Models: machine-learning and evaluation (R package) 
+
+Statistical Evaluation of Prediction Models: Machine Learning and Evaluation (R package) 
