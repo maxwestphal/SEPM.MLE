@@ -1,0 +1,20 @@
+Package: SEPM.MLE
+Type: Package
+Title: Simulation framework for the Statistical Evaluation of Prediction Models (SEPM)
+Version: 0.1.0
+Authors@R: person("XXX", "YYY", email = "XXX.YYY@ZZZ",
+    role = c("aut", "cre"))
+Description: This package provides functions to conduct simulation studies regarding the Statistical
+  Evaluation of Predictions Models via the R package SEPM.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    Matrix,
+    mvtnorm,
+    magrittr,
+    caret,
+    SEPM,
+    batchtools,
+    ggplot2
+RoxygenNote: 6.1.1
